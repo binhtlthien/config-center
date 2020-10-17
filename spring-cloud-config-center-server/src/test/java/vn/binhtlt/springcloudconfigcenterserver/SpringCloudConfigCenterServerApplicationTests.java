@@ -1,10 +1,10 @@
-package vn.binhtlt.configcenterserver;
+package vn.binhtlt.springcloudconfigcenterserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConfigCenterServerApplicationTests {
+class SpringCloudConfigCenterServerApplicationTests {
 
 	@Test
 	void contextLoads() {
